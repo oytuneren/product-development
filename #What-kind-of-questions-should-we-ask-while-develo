@@ -1,0 +1,71 @@
+#What-kind-of-questions-should-we-ask-while-developing-a-product?
+
+Accepting or declining feature requests are always a tough decision for product development. However, there is a way to understand and prioritize user needs or pains by asking the right questions. This questionnaire will also help you to take care of in team needs with respecting business expectations. This approach proved itself while developing our product in Segmentify as well.
+
+
+First of all, I would like to point out that this method can be easily used by all stakeholders during the product development phase. Let's try to ask the right questions in product development:
+
+How will the needs of users really contribute to the development of our product?
+Do comments based on these requests make it easier for us to accept/reject?
+Is it possible to make an enlightening plan to identify the accepted customer demands within the need hierarchy?
+And finally, how much is it possible to do all this with a single survey?
+Which Products, Which Needs, Which Users?
+
+In particular, two types of products come with many user demands; SaaS-based products (mailchimp.com, segmentify.com etc.) developed by startups and some applications developed by the enterprise (such as banking applications, marketplaces, etc.) which reaches hundreds of thousands or even millions of users.
+
+First of all, the demands on these products need to be divided into two for our case. If you're looking the reason behind that approach, please check out here: https://www.mindtheproduct.com/2017/11/step-step-guide-constructing-persona-workshop/
+
+Requests from the Operator (we can call them ‘in-team' as well) and requests from Customers. The operator may also be a person who has developed another product using that product, as well as those who use what we expect from our customers. Our customers are exactly the target users that we have developed for this product. (I'll refer to exactly what I mean later, but I didn't want to use the term end user in particular, because the Operator may be using the product in a situation that we often define as the end user.)
+
+It is also necessary to filter the demands/comments/criticisms/ideas that we divide according to the sources. Sometimes, the need for a customer may not be needed for other customers and this may cause another difficulty whilst solving other's problems. So, the question "Is this demand a need or an idea?" must be answered in the first place.
+
+These two basic questions may push you to create two separate surveys, but one survey will be enough in most cases. However, depending on whether the business you are in is a startup or an enterprise, the form and approach format of the communication to the customer and the team may differentiate. That's why questionnaires that can be differentiated by two different types of question and communication language can be prepared; as Customers and in-Team. Here I go through the questionnaire that is in-team.
+
+The content of the Survey and Whom?
+
+Also, we have another challenge for our survey; reliability. There is a fact that people who fill the questionnaire tend to lie in the face of certain questions. Like nobody watches porn when you ask.
+
+Another audience who will fill this survey is simply those who will make the request for the easiest way to do this.
+
+On the other hand, you should manage sales/marketing team requests within the direction of a company's business plan.
+
+Finally, there may be developers or product managers who may try to bring all this to the easiest point of view for themselves.
+
+Explanation of Each Questionnaire 
+
+Q1: Type of Request
+It is reasonable to leave the decision to the user that can decide what type of request is he/she have, as this can be the first choice that sets the most important priority criteria for both of us.
+
+Q2: What's your request?
+There may be a better word can be chosen instead of "Request" but with this question, we want them to explain their request clearly within his or her own words.
+
+For example, I want voice command on panel or X integration.
+
+Q3: After what kind of event this request came to your mind?
+It is very important for you to understand the story behind that request whit understanding exactly what happened to the user. With this question you can exceed a very important threshold; "Is the source of the relevant request based on a problem, or is it a result of a series of events that can take place in the century?"
+
+Q4: What do you want to do with it?
+Every request has a purpose. Every operator or client would like to do a something ‘faster' and ‘more'. We ask this question to see, prioritize and create an important value criterion.
+
+Q5: How much does this problem affect the current performance of the product?
+What is the value of the pain in the user? Let them tell. How severe your headache pain is, using a scale from 1 to 10? This linear scale can actually be a very important indicator, as you are sure that it is evaluated objectively. We should not forget that nobody is watching a porn and want to see more documentaries on TV.
+
+Q6: How do you -solve- this problem right now?
+This question is actually very important in two respects. First, you can make the distinction between whether the demand is a problem or a request, in proportion to the method of a solution it finds. Secondly, as a respondent to this request, you are given an example of some kind of proven application with the most likely workaround solution in the application.
+
+Q7: How would you like it to be?
+Yeah, you're the designer. We want to listen to you. Yes, you're the developer, tell us how it should be? With all my experience on the field, I've seen that the question of this solution will come right after the question with another question "Do I really need this request?" Some users at this stage, even before the end of the questionnaire, they start questioning their first answer to change the "Q1: Type of request" has become a question. So, this question will make things easier for you.
+
+Q8: Will this request have another contribution to the product?
+If there is any, - because we have accepted your request and now questioning should we increase the importance? And can we also learn from other areas that are overlooked and which may be affected by such a change?
+
+Q9: Will your performance increase after the realization of this request?
+This is the last exit question before the highway. You're thinking that your performance will really increase, if we do this? Was this the reason for the lack of performance, if any? If the answer to this question is more than 3, we can assume that our users who say that I've never watched a porn so far may correct. In particular, since the response of the operators is related to their performance, the prediction that performance expectation will increase after the development of this feature/problem can be used to increase the accuracy of the user's answers to the questions.
+
+
+Last Notes
+The following survey is open to everyone. Contributions are highly welcome. The most important thing that I would advise you to pay attention when making additions, please do not reduce the motivation of the person who will answer by adding too many questions. Another important issue is the order of the questions. If you pay attention to the ranking of the questions, the survey itself was designed as a product development approach. It is much more important to ask the right questions in the right place.
+
+https://goo.gl/forms/7sw2ihJzxdHFR3fG2
+
+
